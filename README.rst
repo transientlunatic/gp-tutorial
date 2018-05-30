@@ -18,6 +18,29 @@ Contents
 4. Surrogate modelling with GPR
 5. Latent Variable GP Priors
 
+Getting the Code
+===================
+
+The easiest way to get the code and information in this tutorial is to
+clone this repository. You can do that by running
+::
+   git clone https://github.com/transientlunatic/gp-tutorial.git
+
+in a terminal. Your mileage may vary if you're running a non-Unix
+system, such as Windows.
+
+Setting-up Your Python Environment
+==================================
+
+The code examples in this repository are provided as Jupyter
+notebooks. If you want to play around with them yourself you'll need
+to install the correct Python libraries. If you're running on a
+machine which has the `pip` package manager for Python installed you
+can have it install everything that you need by running `pip
+install -r requirements.txt` in the top level of this repository.
+
+I strongly recommend that you install the libraries in a virtual
+environment on your machine.
 
 Author
 ======
