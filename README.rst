@@ -18,8 +18,26 @@ Contents
 4. Surrogate modelling with GPR
 5. Latent Variable GP Priors
 
+
+
+Running in Google Collaboratory
+===============================
+
+The easiest way to use these tutorials is to run them using Google Collaboratory.
+
+All of the notebooks are available [here](https://colab.research.google.com/github/transientlunatic/gp-tutorial/).
+Alternatively you can open each chapter in a Collab notebook by clicking the links in this table of contents:
+
+1. [Introduction](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/1.%20Introduction.ipynb)
+2. [Covariance Functions](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/2.%20Covariance%20Functions%20and%20Feature%20Space.ipynb)
+3. [Gaussian Process Regression](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/3.%20Gaussian%20Process.ipynb)
+
+
+Running on your own machine
+===========================
+
 Getting the Code
-===================
+----------------
 
 The easiest way to get the code and information in this tutorial is to
 clone this repository. You can do that by running
@@ -29,8 +47,8 @@ clone this repository. You can do that by running
 in a terminal. Your mileage may vary if you're running a non-Unix
 system, such as Windows.
 
-Setting-up Your Python Environment
-==================================
+Setting-up your Python environment
+----------------------------------
 
 The code examples in this repository are provided as Jupyter
 notebooks. If you want to play around with them yourself you'll need
