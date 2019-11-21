@@ -1,0 +1,25 @@
+A Gaussian Process Tutorial
+===========================
+
+This repository is intended to serve as a tutorial on the use of Gaussian process regression techniques, principly for surrogate modelling in astrophysics, but will also touch on other topics, such as latent variable GP priors as it develops.
+
+Right now this repository is very much a draft, and it's likely to change quite a lot as it develops.
+
+This tutorial will attempt (and probably, to some extent, fail) to be implementation agnostic; that is, I'll try and have examples from as many different packages which implement GPs as possible, and try to provide as much of the background maths and principles as possible to allow implementations in languages other than those covered in this work.
+
+Contents
+========
+
+1. Introduction
+2. Covariance Functions
+3. Gaussian Process Regression
+4. Surrogate modelling with GPR
+5. Latent Variable GP Priors
+6. Gaussian processes with large datasets
+
+
+
+Author
+======
+
+This tutorial is written by Daniel Williams, who is a research assistant at the Institute for Gravitational Research at the University of Glasgow.
