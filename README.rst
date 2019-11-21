@@ -25,12 +25,12 @@ Running in Google Collaboratory
 
 The easiest way to use these tutorials is to run them using Google Collaboratory.
 
-All of the notebooks are available [here](https://colab.research.google.com/github/transientlunatic/gp-tutorial/).
+All of the notebooks are available `here <https://colab.research.google.com/github/transientlunatic/gp-tutorial/>`_.
 Alternatively you can open each chapter in a Collab notebook by clicking the links in this table of contents:
 
-1. [Introduction](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/1.%20Introduction.ipynb)
-2. [Covariance Functions](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/2.%20Covariance%20Functions%20and%20Feature%20Space.ipynb)
-3. [Gaussian Process Regression](https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/3.%20Gaussian%20Process.ipynb)
+1. `Introduction <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/1.%20Introduction.ipynb>`_
+2. `Covariance Functions <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/2.%20Covariance%20Functions%20and%20Feature%20Space.ipynb>`_
+3. `Gaussian Process Regression <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/3.%20Gaussian%20Process.ipynb>`_
 
 
 Running on your own machine
