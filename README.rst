@@ -1,6 +1,10 @@
 A Gaussian Process Tutorial
 ===========================
 
+.. image:: gpr-cover.png
+   :width: 100%
+   :align: center
+
 This repository is intended to serve as a tutorial on the use of
 Gaussian process regression techniques, principly for surrogate
 modelling in astrophysics, but will also touch on other topics, such
