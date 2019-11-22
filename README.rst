@@ -16,7 +16,7 @@ change quite a lot as it develops.
 Contents
 ========
 
-1. Introduction
+1. `Introduction <chapters/1.%20Introduction.ipynb>`_
 2. Covariance Functions
 3. Gaussian Process Regression
 4. Surrogate modelling with GPR
