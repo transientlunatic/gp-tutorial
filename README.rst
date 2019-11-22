@@ -73,4 +73,4 @@ I strongly recommend that you install the libraries in a virtual environment on 
 Author
 ======
 
-This tutorial is written by`Daniel Williams <http://www.astro.gla.ac.uk/~daniel/>`_, who is a postdoctoral researcher at the Institute for Gravitational Research at the University of Glasgow.
+This tutorial is written by `Daniel Williams <http://www.astro.gla.ac.uk/~daniel/>`_ , who is a postdoctoral researcher at the Institute for Gravitational Research at the University of Glasgow.
