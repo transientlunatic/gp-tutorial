@@ -1,6 +1,10 @@
 A Gaussian Process Tutorial
 ===========================
 
+.. image:: gpr-cover.png
+   :width: 100%
+   :align: center
+
 This repository is intended to serve as a tutorial on the use of
 Gaussian process regression techniques, principly for surrogate
 modelling in astrophysics, but will also touch on other topics, such
@@ -12,13 +16,15 @@ change quite a lot as it develops.
 Contents
 ========
 
-1. Introduction
+1. `Introduction <chapters/1.%20Introduction.ipynb>`_
 2. Covariance Functions
 3. Gaussian Process Regression
 4. Surrogate modelling with GPR
 5. Latent Variable GP Priors
 
-
+.. image:: gpr-cover2.png
+   :width: 100%
+   :align: center
 
 Running in Google Collaboratory
 ===============================
@@ -32,6 +38,9 @@ Alternatively you can open each chapter in a Collab notebook by clicking the lin
 2. `Covariance Functions <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/2.%20Covariance%20Functions%20and%20Feature%20Space.ipynb>`_
 3. `Gaussian Process Regression <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/3.%20Gaussian%20Process.ipynb>`_
 
+.. image:: gpr-cover3.png
+   :width: 100%
+   :align: center
 
 Running on your own machine
 ===========================
@@ -56,6 +65,10 @@ If you want to play around with them yourself you'll need to install the correct
 If you're running on a machine which has the `pip` package manager for Python installed you can have it install everything that you need by running `pip install -r requirements.txt` in the top level of this repository.
 
 I strongly recommend that you install the libraries in a virtual environment on your machine.
+
+.. image:: gpr-cover4.png
+   :width: 100%
+   :align: center
 
 Author
 ======
