@@ -23,7 +23,9 @@ Contents
    4. Surrogate modelling with GPR
    5. Latent Variable GP Priors
 
-
+.. image:: gpr-cover2.png
+   :width: 100%
+   :align: center
 
 Running in Google Collaboratory
 ===============================
@@ -37,6 +39,9 @@ Alternatively you can open each chapter in a Collab notebook by clicking the lin
 2. `Covariance Functions <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/2.%20Covariance%20Functions%20and%20Feature%20Space.ipynb>`_
 3. `Gaussian Process Regression <https://colab.research.google.com/github/transientlunatic/gp-tutorial/blob/master/chapters/3.%20Gaussian%20Process.ipynb>`_
 
+.. image:: gpr-cover3.png
+   :width: 100%
+   :align: center
 
 Running on your own machine
 ===========================
@@ -62,7 +67,11 @@ If you're running on a machine which has the `pip` package manager for Python in
 
 I strongly recommend that you install the libraries in a virtual environment on your machine.
 
+.. image:: gpr-cover4.png
+   :width: 100%
+   :align: center
+
 Author
 ======
 
-This tutorial is written by Daniel Williams, who is a postdoctoral researcher at the Institute for Gravitational Research at the University of Glasgow.
+This tutorial is written by `Daniel Williams <http://www.astro.gla.ac.uk/~daniel/>`_ , who is a postdoctoral researcher at the Institute for Gravitational Research at the University of Glasgow.
