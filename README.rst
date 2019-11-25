@@ -19,8 +19,9 @@ Contents
 1. `Introduction <chapters/1.%20Introduction.ipynb>`_
 2. Covariance Functions
 3. Gaussian Process Regression
-4. Surrogate modelling with GPR
-5. Latent Variable GP Priors
+..
+   4. Surrogate modelling with GPR
+   5. Latent Variable GP Priors
 
 
 
